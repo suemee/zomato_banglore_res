@@ -1,0 +1,4 @@
+# zomato_banglore_res
+The primary objective of this project is to perform comprehensive exploratory data analysis (EDA) on the Zomato Bangalore restaurant dataset to uncover patterns, trends, and relationships that influence customer ratings. The analysis involves cleaning and preprocessing the dataset, handling missing values, transforming categorical variables, and deriving meaningful insights from variables such as restaurant location, cost, online order availability, and table booking options.
+
+Following the EDA, a linear regression model is implemented to predict restaurant ratings based on selected features including votes, approximate cost for two people, online ordering, table reservation, and location. The model's performance is evaluated using key metrics such as R² score and RMSE. This serves as a baseline for future enhancements through feature engineering and advanced regression models aimed at improving prediction accuracy.
